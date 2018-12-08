@@ -1,4 +1,5 @@
 {
+  "id": "100001",
   "name": "CoderBunker (local)",
   "tag_positions": "https://raw.githubusercontent.com/atlas-ai/loc3d-configs/master/locations/bunker/map.json",
   "map": "https://raw.githubusercontent.com/atlas-ai/loc3d-configs/master/locations/bunker/tag_positions.json"
