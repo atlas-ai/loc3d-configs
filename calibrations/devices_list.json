@@ -1,4 +1,5 @@
 {
   "default": "https://raw.githubusercontent.com/atlas-ai/loc3d-configs/master/calibrations/devices/default.json",
-  "SM-N950U": "https://raw.githubusercontent.com/atlas-ai/loc3d-configs/master/calibrations/devices/SM-N950U.json"
+  "SM-N950U": "https://raw.githubusercontent.com/atlas-ai/loc3d-configs/master/calibrations/devices/SM-N950U.json",
+  "LG-H990": "https://raw.githubusercontent.com/atlas-ai/loc3d-configs/master/calibrations/devices/LG-H990.json"
 }
